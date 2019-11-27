@@ -1,24 +1,5 @@
 # util-snippets
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 工具集
+### 目前已有工具
+    - 1. 生成某一段时间范围内指定数量的随机时间

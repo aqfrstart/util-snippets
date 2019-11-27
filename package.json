@@ -1,6 +1,7 @@
 {
   "name": "util-snippets",
   "version": "0.1.0",
+  "author": "akouSAMA",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -9,6 +10,8 @@
   },
   "dependencies": {
     "core-js": "^3.3.2",
+    "element-ui": "^2.13.0",
+    "moment": "^2.24.0",
     "vue": "^2.6.10"
   },
   "devDependencies": {
